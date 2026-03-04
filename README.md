@@ -24,7 +24,7 @@ I build mobile solutions that focus on performance and user experience. Currentl
 </p>
 
 ### 📊 GitHub Stats
-![Nesma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesma-20&show_icons=true&theme=radical)
+![Nesma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesma-20&show_icons=true&theme=transparent&title_color=7455ad&icon_color=7455ad&text_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesma-20&layout=compact&theme=radical)
 
 ---
