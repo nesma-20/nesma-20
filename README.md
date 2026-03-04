@@ -1,3 +1,5 @@
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nesma%20%20&fontSize=90)
 # Hi 👋, I'm Nesma!
 
 ### Passionate Software Development Student & Flutter Developer
@@ -27,5 +29,8 @@ I build mobile solutions that focus on performance and user experience. Currentl
 
 ---
 
+
+
 ### 🔗 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/nesma-ba-0817563b4/))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nesma-ba-0817563b4/)
+
