@@ -11,7 +11,7 @@ I build mobile solutions that focus on performance and user experience. Currentl
 ### 🚀 About Me
 - 🔭 I’m currently working on **Graduation Project (Mobile App)**
 - 🌱 I’m currently learning **Advanced Flutter & Firebase Integration**
-- 💬 Ask me about **Flutter, Dart, and UI/UX Design**
+- 💬 Ask me about **Flutter, Dart, and Android **
 - 📫 How to reach me: **[nesmaba798@gmail.com]**
 - ⚡ Fun fact: I believe that clean code is a way of life!
 
