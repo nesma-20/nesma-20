@@ -1,5 +1,7 @@
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Nesma%20%20&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7455ad&height=200&section=header&text=Nesma%20&fontSize=90" />
+</p>
 # Hi 👋, I'm Nesma!
 
 ### Passionate Software Development Student & Flutter Developer
@@ -23,11 +25,14 @@ I build mobile solutions that focus on performance and user experience. Currentl
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 My GitHub Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nesma-20&show_icons=true&theme=radical&title_color=7455ad&icon_color=7455ad&hide_border=true" alt="Nesma's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesma-20&layout=compact&theme=radical&title_color=7455ad&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nesma-20&show_icons=true&theme=algolia&title_color=7455ad&icon_color=7455ad" alt="GitHub Stats" />
+</p>
+
+### 🛠️ Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nesma-20&layout=compact&theme=algolia&title_color=7455ad" alt="Top Languages" />
 </p>
 
 ---
