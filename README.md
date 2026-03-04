@@ -1,5 +1,5 @@
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nesma%20%20&fontSize=90)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Nesma%20%20&fontSize=90)
 # Hi 👋, I'm Nesma!
 
 ### Passionate Software Development Student & Flutter Developer
