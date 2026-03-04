@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Nesma!
 
-<!--
-**nesma-20/nesma-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionate Software Development Student & Flutter Developer
 
-Here are some ideas to get you started:
+I build mobile solutions that focus on performance and user experience. Currently, I am in my final year of study, focusing on mastering the Flutter ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Graduation Project (Mobile App)**
+- 🌱 I’m currently learning **Advanced Flutter & Firebase Integration**
+- 💬 Ask me about **Flutter, Dart, and UI/UX Design**
+- 📫 How to reach me: **[nesmaba798@gmail.com]**
+- ⚡ Fun fact: I believe that clean code is a way of life!
+
+### 🛠️ My Technical Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+![Nesma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesma-20&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesma-20&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/nesma-ba-0817563b4/))
